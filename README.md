@@ -20,3 +20,8 @@ Crie um novo e-mail e preencha a caixa Para com seu próprio endereço de e-mail
 No painel Copilot, selecione a guia Redação. Em seguida, defina as seguintes opções para compor um novo conteúdo
 
 ![email](https://github.com/user-attachments/assets/c32cf292-81ba-4f95-ac3f-1c48e0895592)
+
+## Utilização
+
+O uso do Copilot é extremamente útil no dia a dia, melhorando o desempenho e aumentando a agilidade nas atividades, como criar
+apresentações,responder e-mails, entre outras. Sua utilização abrange diversas áreas, beneficiando a todos.
